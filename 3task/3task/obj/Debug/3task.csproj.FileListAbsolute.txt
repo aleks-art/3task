@@ -1,0 +1,6 @@
+C:\Users\gifted\source\repos\3task\3task\bin\Debug\3task.exe.config
+C:\Users\gifted\source\repos\3task\3task\bin\Debug\3task.exe
+C:\Users\gifted\source\repos\3task\3task\bin\Debug\3task.pdb
+C:\Users\gifted\source\repos\3task\3task\obj\Debug\3task.csproj.CoreCompileInputs.cache
+C:\Users\gifted\source\repos\3task\3task\obj\Debug\3task.exe
+C:\Users\gifted\source\repos\3task\3task\obj\Debug\3task.pdb
